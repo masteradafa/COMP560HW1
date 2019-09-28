@@ -1,0 +1,12 @@
+4
+ABCC
+AADC
+EEDF
+GGDF
+A:7+
+B:4
+C:6+
+D:8+
+E:1-
+F:2-
+G:4+

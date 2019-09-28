@@ -1,0 +1,16 @@
+5
+ABBBC
+ADEEC
+FDEEG
+FHHHG
+IIHJJ
+A:2/
+B:20*
+C:2-
+D:3-
+E:9+
+F:4+
+G:2/
+H:13+
+I:9+
+J:2/
